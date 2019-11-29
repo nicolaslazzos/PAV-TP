@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42255B86-C2F3-4E02-AAD8-38912ABA0A1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProyectoPAV.My.MyApplication</StartupObject>
+    <RootNamespace>ProyectoPAV</RootNamespace>
+    <AssemblyName>ProyectoPAV</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProyectoPAV.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProyectoPAV.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer\Clases\DetalleFactura.vb" />
+    <Compile Include="DataLayer\Clases\EncabezadoFactura.vb" />
+    <Compile Include="DataLayer\Helper\BDHelper.vb" />
+    <Compile Include="DataLayer\Clases\Producto.vb" />
+    <Compile Include="GUILayer\Clientes\frmClientes.Designer.vb">
+      <DependentUpon>frmClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\frmClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClientesEDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClientesEDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClientesEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ListadoClientes\frmListadoClientes.Designer.vb">
+      <DependentUpon>frmListadoClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ListadoClientes\frmListadoClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ListadoClientes\ListadoClientes_Result.vb">
+      <DependentUpon>ClientesEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\MontosPorCliente\frmListadoMontosPorCliente.Designer.vb">
+      <DependentUpon>frmListadoMontosPorCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\MontosPorCliente\frmListadoMontosPorCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MontosPorClienteEDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MontosPorClienteEDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MontosPorClienteEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\MontosPorCliente\MontoTotalPorCliente_Result.vb">
+      <DependentUpon>MontosPorClienteEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ProductosPorCliente\frmProductosPorCliente.Designer.vb">
+      <DependentUpon>frmProductosPorCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ProductosPorCliente\frmProductosPorCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosPorClienteEDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosPorClienteEDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosPorClienteEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorCliente_Result.vb">
+      <DependentUpon>ProductosPorClienteEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Facturacion\frmFacturacion.Designer.vb">
+      <DependentUpon>frmFacturacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Facturacion\frmFacturacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\frmPrincipal.designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Login\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Login\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Productos\frmProductos.Designer.vb">
+      <DependentUpon>frmProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\frmProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\ListadoProductos\frmListadoProductos.Designer.vb">
+      <DependentUpon>frmListadoProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\ListadoProductos\frmListadoProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\ListadoProductos\ListadoProductos_Result.vb">
+      <DependentUpon>ProductosEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosEDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosEDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\MasVendidos\frmProductosMasVendidos.Designer.vb">
+      <DependentUpon>frmProductosMasVendidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\MasVendidos\frmProductosMasVendidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosMasVendidosEDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosMasVendidosEDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosMasVendidosEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidos_Result.vb">
+      <DependentUpon>ProductosMasVendidosEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\frmProveedores.Designer.vb">
+      <DependentUpon>frmProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\frmProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\Listados\frmListadoProveedores.Designer.vb">
+      <DependentUpon>frmListadoProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\Listados\frmListadoProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\Listados\ListadoProveedores_Result.vb">
+      <DependentUpon>ProveedoresEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\Listados\ProveedoresEDM.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProveedoresEDM.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\Listados\ProveedoresEDM.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProveedoresEDM.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Proveedores\Listados\ProveedoresEDM.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProveedoresEDM.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Usuarios\frmUsuarios.Designer.vb">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Usuarios\frmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mensajes\Mensajes.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUILayer\Clientes\frmClientes.resx">
+      <DependentUpon>frmClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Clientes\Listados\ListadoClientes\frmListadoClientes.resx">
+      <DependentUpon>frmListadoClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Clientes\Listados\ListadoClientes\listadoClientes.rdlc" />
+    <EmbeddedResource Include="GUILayer\Clientes\Listados\MontosPorCliente\frmListadoMontosPorCliente.resx">
+      <DependentUpon>frmListadoMontosPorCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Clientes\Listados\MontosPorCliente\informeMontosPorCliente.rdlc" />
+    <EmbeddedResource Include="GUILayer\Clientes\Listados\ProductosPorCliente\frmProductosPorCliente.resx">
+      <DependentUpon>frmProductosPorCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Clientes\Listados\ProductosPorCliente\listadoProductosPorCliente.rdlc" />
+    <EmbeddedResource Include="GUILayer\Facturacion\frmFacturacion.resx">
+      <DependentUpon>frmFacturacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Login\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Productos\frmProductos.resx">
+      <DependentUpon>frmProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Productos\Listados\ListadoProductos\frmListadoProductos.resx">
+      <DependentUpon>frmListadoProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Productos\Listados\ListadoProductos\listadoProductos.rdlc" />
+    <EmbeddedResource Include="GUILayer\Productos\Listados\MasVendidos\frmProductosMasVendidos.resx">
+      <DependentUpon>frmProductosMasVendidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Productos\Listados\MasVendidos\informeProductosMasVendidos.rdlc" />
+    <EmbeddedResource Include="GUILayer\Proveedores\frmProveedores.resx">
+      <DependentUpon>frmProveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Proveedores\Listados\frmListadoProveedores.resx">
+      <DependentUpon>frmListadoProveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Proveedores\Listados\listadoProveedores.rdlc" />
+    <EmbeddedResource Include="GUILayer\Usuarios\frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ClientesEDM.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <None Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ClientesEDM.edmx</DependentUpon>
+      <LastGenOutput>ClientesEDM.Context.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.edmx.diagram">
+      <DependentUpon>ClientesEDM.edmx</DependentUpon>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\ListadoClientes\ClientesEDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ClientesEDM.edmx</DependentUpon>
+      <LastGenOutput>ClientesEDM.vb</LastGenOutput>
+    </None>
+    <EntityDeploy Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProductosMasVendidosEDM.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProductosEDM.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProductosPorClienteEDM.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>MontosPorClienteEDM.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <None Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>MontosPorClienteEDM.edmx</DependentUpon>
+      <LastGenOutput>MontosPorClienteEDM.Context.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.edmx.diagram">
+      <DependentUpon>MontosPorClienteEDM.edmx</DependentUpon>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\MontosPorCliente\MontosPorClienteEDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>MontosPorClienteEDM.edmx</DependentUpon>
+      <LastGenOutput>MontosPorClienteEDM.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductosPorClienteEDM.edmx</DependentUpon>
+      <LastGenOutput>ProductosPorClienteEDM.Context.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.edmx.diagram">
+      <DependentUpon>ProductosPorClienteEDM.edmx</DependentUpon>
+    </None>
+    <None Include="GUILayer\Clientes\Listados\ProductosPorCliente\ProductosPorClienteEDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductosPorClienteEDM.edmx</DependentUpon>
+      <LastGenOutput>ProductosPorClienteEDM.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductosEDM.edmx</DependentUpon>
+      <LastGenOutput>ProductosEDM.Context.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.edmx.diagram">
+      <DependentUpon>ProductosEDM.edmx</DependentUpon>
+    </None>
+    <None Include="GUILayer\Productos\Listados\ListadoProductos\ProductosEDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductosEDM.edmx</DependentUpon>
+      <LastGenOutput>ProductosEDM.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductosMasVendidosEDM.edmx</DependentUpon>
+      <LastGenOutput>ProductosMasVendidosEDM.Context.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.edmx.diagram">
+      <DependentUpon>ProductosMasVendidosEDM.edmx</DependentUpon>
+    </None>
+    <None Include="GUILayer\Productos\Listados\MasVendidos\ProductosMasVendidosEDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductosMasVendidosEDM.edmx</DependentUpon>
+      <LastGenOutput>ProductosMasVendidosEDM.vb</LastGenOutput>
+    </None>
+    <EntityDeploy Include="GUILayer\Proveedores\Listados\ProveedoresEDM.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProveedoresEDM.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <None Include="GUILayer\Proveedores\Listados\ProveedoresEDM.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProveedoresEDM.edmx</DependentUpon>
+      <LastGenOutput>ProveedoresEDM.Context.vb</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Proveedores\Listados\ProveedoresEDM.edmx.diagram">
+      <DependentUpon>ProveedoresEDM.edmx</DependentUpon>
+    </None>
+    <None Include="GUILayer\Proveedores\Listados\ProveedoresEDM.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProveedoresEDM.edmx</DependentUpon>
+      <LastGenOutput>ProveedoresEDM.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\ListadoClientes_Result.datasource" />
+    <None Include="My Project\DataSources\ListadoProductos_Result.datasource" />
+    <None Include="My Project\DataSources\ListadoProveedores_Result.datasource" />
+    <None Include="My Project\DataSources\MontoTotalPorCliente_Result.datasource" />
+    <None Include="My Project\DataSources\ProductosMasVendidos_Result.datasource" />
+    <None Include="My Project\DataSources\ProductosPorCliente_Result.datasource" />
+    <None Include="My Project\DataSources\ProveedoresEntities.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

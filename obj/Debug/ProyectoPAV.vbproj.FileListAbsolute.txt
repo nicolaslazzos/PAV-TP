@@ -1,0 +1,234 @@
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Usuario\Desktop\Facultad\ProyectoPAV-20170923T174509Z-001\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Desktop\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\Nueva carpeta\Proyecto PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\Nueva carpeta\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\Nueva carpeta\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\Nueva carpeta\Proyecto PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\PAV\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\ProyectoPAV - copia\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosMasVendidos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosMasVendidos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\ProyectoPAV con Grafico\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosMasVendidos.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosPorCliente.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV con Listado Productos\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoMontosPorCliente.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoClientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoMontosPorCliente.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosPorCliente.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProductos.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosMasVendidos.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProveedores.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\ProyectoPAV Final Creo\ProyectoPAV\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoClientes.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoMontosPorCliente.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosPorCliente.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProductos.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosMasVendidos.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProveedores.resources
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Google Drive\UTN\2017\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe.config
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.exe
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.xml
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.exe
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.pdb
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\ProyectoPAV.xml
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.dll
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.xml
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmClientes.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoClientes.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoMontosPorCliente.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosPorCliente.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmFacturacion.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmPrincipal.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmLogin.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductos.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProductos.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProductosMasVendidos.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmProveedores.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmListadoProveedores.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.frmUsuarios.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.Resources.resources
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\ProyectoPAV.vbproj.GenerateResource.Cache
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Google Drive\UTN\2017 [3K1]\PAV I\Proyecto\ProyectoPAV\ProyectoPAV\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MontosPorClienteModelStoreContainer" CdmEntityContainer="MontosPorClienteEntities">
+    <FunctionImportMapping FunctionImportName="MontoTotalPorCliente" FunctionName="MontosPorClienteModel.Store.MontoTotalPorCliente">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MontosPorClienteModel.MontoTotalPorCliente_Result">
+          <ScalarProperty Name="TotalComprado" ColumnName="TotalComprado" />
+          <ScalarProperty Name="CUIT" ColumnName="CUIT" />
+          <ScalarProperty Name="razonSocial" ColumnName="razonSocial" />
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ProductosEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="ListadoProductos" ReturnType="Collection(ProductosModel.ListadoProductos_Result)">
+      <Parameter Name="fechaDesde" Mode="In" Type="DateTime" />
+      <Parameter Name="fechaHasta" Mode="In" Type="DateTime" />
+      <Parameter Name="tipoProducto" Mode="In" Type="Int32" />
+      <Parameter Name="stockMayorA" Mode="In" Type="Int32" />
+      <Parameter Name="stockMenorA" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ListadoProductos_Result">
+    <Property Type="String" Name="codProducto" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Producto" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="TipoProducto" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="precioVenta" Nullable="false" />
+    <Property Type="Int32" Name="stockActual" Nullable="false" />
+    <Property Type="DateTime" Name="fechaAlta" Nullable="false" />
+  </ComplexType>
+</Schema>

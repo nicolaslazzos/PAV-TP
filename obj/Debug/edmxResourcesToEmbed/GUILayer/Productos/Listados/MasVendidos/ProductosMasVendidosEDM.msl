@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProductosMasVendidosModelStoreContainer" CdmEntityContainer="ProductosMasVendidosEntities">
+    <FunctionImportMapping FunctionImportName="ProductosMasVendidos" FunctionName="ProductosMasVendidosModel.Store.ProductosMasVendidos">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProductosMasVendidosModel.ProductosMasVendidos_Result">
+          <ScalarProperty Name="Producto" ColumnName="Producto" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

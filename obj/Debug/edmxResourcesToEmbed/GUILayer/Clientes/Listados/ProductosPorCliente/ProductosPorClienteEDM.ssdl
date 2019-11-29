@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductosPorClienteModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <Function Name="ProductosPorCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="fechaDesde" Type="datetime" Mode="In" />
+    <Parameter Name="fechaHasta" Type="datetime" Mode="In" />
+    <Parameter Name="tipoProducto" Type="int" Mode="In" />
+    <Parameter Name="provincia" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="ProductosPorClienteModelStoreContainer" />
+</Schema>

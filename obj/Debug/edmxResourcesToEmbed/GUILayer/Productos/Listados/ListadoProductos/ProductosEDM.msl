@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProductosModelStoreContainer" CdmEntityContainer="ProductosEntities">
+    <FunctionImportMapping FunctionImportName="ListadoProductos" FunctionName="ProductosModel.Store.ListadoProductos">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProductosModel.ListadoProductos_Result">
+          <ScalarProperty Name="codProducto" ColumnName="codProducto" />
+          <ScalarProperty Name="Producto" ColumnName="Producto" />
+          <ScalarProperty Name="TipoProducto" ColumnName="TipoProducto" />
+          <ScalarProperty Name="precioVenta" ColumnName="precioVenta" />
+          <ScalarProperty Name="stockActual" ColumnName="stockActual" />
+          <ScalarProperty Name="fechaAlta" ColumnName="fechaAlta" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

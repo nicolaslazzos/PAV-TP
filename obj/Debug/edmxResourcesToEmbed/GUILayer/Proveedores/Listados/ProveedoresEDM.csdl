@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProveedoresModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ProveedoresEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="ListadoProveedores" ReturnType="Collection(ProveedoresModel.ListadoProveedores_Result)">
+      <Parameter Name="fechaDesde" Mode="In" Type="DateTime" />
+      <Parameter Name="fechaHasta" Mode="In" Type="DateTime" />
+      <Parameter Name="provincia" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ListadoProveedores_Result">
+    <Property Type="Int64" Name="CUIT" Nullable="false" />
+    <Property Type="String" Name="razonSocial" Nullable="false" MaxLength="50" />
+    <Property Type="Int64" Name="telefono" Nullable="false" />
+    <Property Type="String" Name="localidad" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="provincia" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="fechaAlta" Nullable="false" />
+  </ComplexType>
+</Schema>

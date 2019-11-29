@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductosMasVendidosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ProductosMasVendidosEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="ProductosMasVendidos" ReturnType="Collection(ProductosMasVendidosModel.ProductosMasVendidos_Result)">
+      <Parameter Name="fechaDesde" Mode="In" Type="DateTime" />
+      <Parameter Name="fechaHasta" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ProductosMasVendidos_Result">
+    <Property Type="String" Name="Producto" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Cantidad" Nullable="true" />
+  </ComplexType>
+</Schema>

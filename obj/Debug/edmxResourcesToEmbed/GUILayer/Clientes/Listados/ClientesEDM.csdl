@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ClientesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TinescoEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="ListadoClientes" ReturnType="Collection(ClientesModel.ListadoClientes_Result)">
+      <Parameter Name="fechaDesde" Mode="In" Type="DateTime" />
+      <Parameter Name="fechaHasta" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ListadoClientes_Result">
+    <Property Type="Int64" Name="CUIT" Nullable="false" />
+    <Property Type="String" Name="razonSocial" Nullable="false" MaxLength="50" />
+    <Property Type="Int64" Name="telefono" Nullable="false" />
+    <Property Type="String" Name="localidad" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="provincia" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="fechaAlta" Nullable="false" />
+  </ComplexType>
+</Schema>
